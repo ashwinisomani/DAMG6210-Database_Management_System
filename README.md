@@ -51,5 +51,3 @@ Scope of Improvement: It allows for improvement by reviewing user feedback
 •	To track the status of venue availability.
 •	To track the status of payments.
 
-
-![image](https://user-images.githubusercontent.com/91506541/229659905-94a75e6f-4459-483f-9980-113f9d6cd0bc.png)
