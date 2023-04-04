@@ -17,21 +17,21 @@ Vendor	: Vendor special list generate specialized list of product and services o
 Easy Tracking: Keep specified track of employee/manager/head appointed to an event.
 Scope of Improvement: It allows for improvement by reviewing user feedback
  
-•	To Maintain (enter, update, and delete) data on Manager.
-•	To Maintain (enter, update, and delete) data on Employee.
-•	To Maintain (enter, update, and delete) data on Customers.
-•	To Maintain (enter, update, and delete) data on Vendors.
-•	To Maintain (enter, update, and delete) data on Venue.
-•	To Maintain (enter, update, and delete) data on Calendar.
-•	To Maintain (enter, update, and delete) data on Event /Packages.
-•	To Maintain (enter, update, and delete) data on Transportation.
-•	To Maintain (enter, update, and delete) data on Musician/Anchor.
-•	To Maintain (enter, update, and delete) data on Caterers/food.
-•	To Maintain (enter, update, and delete) data on Decoration.
-•	To Maintain (enter, update, and delete) data on Electric Equipment’s.
-•	To Maintain (enter, update, and delete) data on Performer.
-•	To Maintain (enter, update, and delete) data on Customer Feedback.
-•	To Maintain (enter, update, and delete) data on Payment.
+To Maintain (enter, update, and delete) data on Manager.
+To Maintain (enter, update, and delete) data on Employee.
+To Maintain (enter, update, and delete) data on Customers.
+To Maintain (enter, update, and delete) data on Vendors.
+To Maintain (enter, update, and delete) data on Venue.
+To Maintain (enter, update, and delete) data on Calendar.
+To Maintain (enter, update, and delete) data on Event /Packages.
+To Maintain (enter, update, and delete) data on Transportation.
+To Maintain (enter, update, and delete) data on Musician/Anchor.
+To Maintain (enter, update, and delete) data on Caterers/food.
+To Maintain (enter, update, and delete) data on Decoration.
+To Maintain (enter, update, and delete) data on Electric Equipment’s.
+To Maintain (enter, update, and delete) data on Performer.
+To Maintain (enter, update, and delete) data on Customer Feedback.
+To Maintain (enter, update, and delete) data on Payment.
 
 •	To perform searches on Vendor.
 •	To perform searches on Venue
